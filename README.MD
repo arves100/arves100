@@ -23,3 +23,4 @@ I'm Arves100, pizza guy with a passion of programming and reverse engineer wanna
 ## Contacts
 - Discord: Arves100#1812
 - Forums: Arves100 (Inforge/Metin2dev), hyperpika11 (Ragezone)
+- Email: pizzaiolo100 (at) proton (dot) me
